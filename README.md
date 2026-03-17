@@ -51,6 +51,13 @@
 - AI Seminar (Undergraduate Researcher)  
 - Teaching Assistant, Data Mining (Department of Computer Engineering, Yeungnam University)  
 - Founder & Vice President, AING AI Club (100+ members)
+<p>
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/08cee807-0636-4974-ac43-c0d999c1f45a" />
+</p>
+
+<p>
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/c7fc8a02-2c7b-49f7-a7fb-25f04fda07e0" />
+</p>
 
 ---
 
