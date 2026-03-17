@@ -38,7 +38,7 @@
 
 * National Science and Engineering Scholarship
 <p>
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/0e18feeb-be58-4fc0-8569-d0609834fb21" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/bc857086-8813-4726-aac5-8330bd3bc4f6" />
 </p>
 
 * SW MIDAS Grand Prize
@@ -59,10 +59,11 @@
 * ADsP (Advanced Data Analytics Semi-Professional)
 * BDA (Modeling Division)
 <p>
-  <img width="200"  alt="image" src="https://github.com/user-attachments/assets/785e0d05-8278-4df0-81f2-a1eddd043601" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/148539ad-15e9-427b-81a8-5cba276ebffc" />
+
 </p>
 
 * ICT COG Artificial Intelligence Program
 <p>
-  <img width="200" alt="image" src="https://github.com/user-attachments/assets/2ec7c8ab-c7af-4479-8d6d-d1e93355d33c" />
+  <img width="200"  alt="image" src="https://github.com/user-attachments/assets/3d4e1e60-bc54-4d43-8a15-44a7f470fc2e" />
 </p>
