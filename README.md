@@ -64,6 +64,11 @@
 ## 📜 PROGRAMS AND CERTIFICATES
 
 * ADsP (Advanced Data Analytics Semi-Professional)
+
+<p>
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/cf3d8378-617e-450a-8253-8a8f1d211a47" />
+</p>
+
 * BDA (Modeling Division)
 <p>
   <img width="200" alt="image" src="https://github.com/user-attachments/assets/148539ad-15e9-427b-81a8-5cba276ebffc" />
